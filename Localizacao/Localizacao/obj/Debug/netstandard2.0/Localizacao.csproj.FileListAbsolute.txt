@@ -1,0 +1,11 @@
+c:\users\robson.amorim\source\repos\Localizacao\Localizacao\Localizacao\bin\Debug\netstandard2.0\Localizacao.deps.json
+c:\users\robson.amorim\source\repos\Localizacao\Localizacao\Localizacao\bin\Debug\netstandard2.0\Localizacao.dll
+c:\users\robson.amorim\source\repos\Localizacao\Localizacao\Localizacao\obj\Debug\netstandard2.0\Localizacao.csprojResolveAssemblyReference.cache
+c:\users\robson.amorim\source\repos\Localizacao\Localizacao\Localizacao\obj\Debug\netstandard2.0\Localizacao.csproj.CoreCompileInputs.cache
+c:\users\robson.amorim\source\repos\Localizacao\Localizacao\Localizacao\obj\Debug\netstandard2.0\Localizacao.App.xaml.g.cs
+c:\users\robson.amorim\source\repos\Localizacao\Localizacao\Localizacao\obj\Debug\netstandard2.0\Localizacao.MainPage.xaml.g.cs
+c:\users\robson.amorim\source\repos\Localizacao\Localizacao\Localizacao\obj\Debug\netstandard2.0\Localizacao.AssemblyInfoInputs.cache
+c:\users\robson.amorim\source\repos\Localizacao\Localizacao\Localizacao\obj\Debug\netstandard2.0\Localizacao.AssemblyInfo.cs
+C:\Users\robson.amorim\source\repos\Localizacao\Localizacao\Localizacao\bin\Debug\netstandard2.0\Localizacao.pdb
+C:\Users\robson.amorim\source\repos\Localizacao\Localizacao\Localizacao\obj\Debug\netstandard2.0\Localizacao.dll
+C:\Users\robson.amorim\source\repos\Localizacao\Localizacao\Localizacao\obj\Debug\netstandard2.0\Localizacao.pdb
